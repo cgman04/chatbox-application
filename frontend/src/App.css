@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400&family=Work+Sans:wght@300&display=swap');
+
+
+.App {
+    min-height: 100vh;
+    display: flex;
+    background-color: rgb(29, 35, 56);
+    color: rgb(0, 0, 0);
+}
+
+.scroll {
+    overflow-y: hidden;
+}
+
+;

@@ -13,7 +13,7 @@ Notifications: Receive notifications for new messages and mentions.
 
 Installation
 
-Clone the repository: git clone https://github.com/yourusername/real-time-chat-app.git
+Clone the repository: git clone https://github.com/cgman04/chatbox-application.git
 Install dependencies: npm install
 Start the server: npm start
 Open the application in your web browser: http://localhost:3000
